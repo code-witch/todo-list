@@ -32,7 +32,7 @@ body {
     font-size: 18pt;
     border-radius: 15px;
     /* offset-x | offset-y | blur-radius | spread-radius | color */
-    box-shadow: 10px 10px 5px 5px #6395
+    box-shadow: 5px 5px 20px 10px #0004
 }
 
 input {
