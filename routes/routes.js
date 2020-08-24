@@ -3,8 +3,15 @@ const fs = require('fs');
 
 const index = (req, res) => {
     let data = JSON.parse(fs.readFileSync('./config.json'));
+    completed = 0;
+    for(datum of data) {
+        if(datum.completed) {
+            completed++;
+        }
+    }
     res.render('index', {
-        list: data
+        list: data,
+        completed
     });
 }
 
