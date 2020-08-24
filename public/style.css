@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Comfortaa', 'Comic Sans MS', cursive;
+    /* width: 100%;
+    height: 100%; */
+}
+
+html {
+    background-color: dodgerblue;
+}
+
+form{
+    padding: 5px;
+}
+
+h1 {
+    font-family: 'Comic Sans MS';
+    text-align: center;
+}
+
+body {
+    /* text-align: center; */
+    background-color: rebeccapurple;
+    color: white;
+    width: 70%;
+    height: 80%;
+    margin: 40px auto;
+    padding: 40px;
+    font-size: 18pt;
+    border-radius: 15px;
+    /* offset-x | offset-y | blur-radius | spread-radius | color */
+    box-shadow: 10px 10px 5px 5px #6395
+}
+
+input {
+    margin: 0 10px;
+    transform: scale(2);
+}
+
+li {
+    list-style: none;
+}

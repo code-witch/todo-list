@@ -1,0 +1,230 @@
+[
+    {
+        "id": "0",
+        "name": "Assignment 1: Propositions - Part 1",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "1",
+        "name": "Assignment 1: Propositions - Part 2",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "2",
+        "name": "Week1 Participation Feedback",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "3",
+        "name": "Assignment 2: Connectives",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "4",
+        "name": "Assignment 3: Applied Logic Part 1",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "5",
+        "name": "Assignment 4: Applied Logic Part 2",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "6",
+        "name": "Week2 Participation Feedback",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "7",
+        "name": "Assignment 5: Adding Machine",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "8",
+        "name": "Assignment 6: Subtracting Machine",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "9",
+        "name": "Week3 Participation Feedback",
+        "completed": false,
+        "class": "logic"
+    },
+    {
+        "id": "10",
+        "name": "Assignment: Analyzing Ethics using Spinello's Framework",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "11",
+        "name": "Reading and Response: Batman",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "12",
+        "name": "Assignment: Kohlberg's Dilemma",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "13",
+        "name": "Assignment: The Ten Commandments of Computer Ethics",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "14",
+        "name": "Assignment: Virtue Ethics and Current Ethical Issues",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "15",
+        "name": "Quiz: Consequentialism Parts 1 and 2",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "16",
+        "name": "Quiz: Consequentialism Parts 3 and 4",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "17",
+        "name": "Quiz: Deontology",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "18",
+        "name": "Quiz: Virtue Ethics",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "19",
+        "name": "Reading and Response: Unintended Consequences",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "20",
+        "name": "Assignment: Cheating Case Study",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "21",
+        "name": "Assignment: Workplace Case Study 1",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "22",
+        "name": "Assignment: Workplace Case Study 2",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "23",
+        "name": "Quiz: Contract Ethics",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "24",
+        "name": "Reading and Response: Intellectual Property",
+        "completed": false,
+        "class": "ethics"
+    },
+    {
+        "id": "25",
+        "name": "React to the News",
+        "completed": false,
+        "class": "front-end"
+    },
+    {
+        "id": "26",
+        "name": "Find People on the Back-end",
+        "completed": false,
+        "class": "front-end"
+    },
+    {
+        "id": "27",
+        "name": "Time for some REST",
+        "completed": false,
+        "class": "front-end"
+    },
+    {
+        "id": "28",
+        "name": "Find the REST Up Front",
+        "completed": false,
+        "class": "front-end"
+    },
+    {
+        "id": "28",
+        "name": "Slice of Laravel",
+        "completed": false,
+        "class": "php"
+    },
+    {
+        "id": "29",
+        "name": "Groups/Data Element Extraction [2-4]",
+        "completed": false,
+        "class": "java-one"
+    },
+    {
+        "id": "30",
+        "name": "RegEx - Data Validation [2-6]",
+        "completed": false,
+        "class": "java-one"
+    },
+    {
+        "id": "31",
+        "name": "Object Input and Output Streams [2-7]",
+        "completed": false,
+        "class": "java-one"
+    },
+    {
+        "id": "32",
+        "name": "Your Generic List [4-2]",
+        "completed": false,
+        "class": "java-one"
+    },
+    {
+        "id": "33",
+        "name": "Filter and Sort Collection Stream [5-3]",
+        "completed": false,
+        "class": "java-one"
+    },
+    {
+        "id": "34",
+        "name": "Advanced Lambda Collection Streams [5-4]",
+        "completed": false,
+        "class": "java-one"
+    },
+    {
+        "id": "35",
+        "name": "Echo Server [6-1]",
+        "completed": false,
+        "class": "java-one"
+    },
+    {
+        "id": "36",
+        "name": "Simple Http Client [6-3]",
+        "completed": false,
+        "class": "java-one"
+    }
+]

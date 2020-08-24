@@ -1,0 +1,19 @@
+doctype html
+html
+    head
+        link(href='./style.css', rel='stylesheet' type="text/css")   
+    body
+        header
+            h1 Chloe's To-Do list of Procrastination
+        ul
+            each item in list
+                li
+                    form(method='post', action="/update/" + item.id)
+                        if item.completed
+                            input(type="checkbox", name=item.id, onclick="this.form.submit()" checked)
+                            label(for=item.id)=item.name
+                                span &nbsp;---- #{item.class}
+                        else
+                            input(type="checkbox", name=item.id, onclick="this.form.submit()") 
+                            label(for=item.id)=item.name
+                                span &nbsp;---- #{item.class}
